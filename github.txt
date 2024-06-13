@@ -6,10 +6,10 @@
 2. git config --global user.name "haryakumuda"
 3. git config --global user.email "haryak279@gmail.com"
 4. git config --global --list
-5. git init                 (untuk menyiapkan git)
+5. git init                 (jika sudah pernah ada repository sebelumnya, maka tidak perlu lagi)           
 6. git add *                (untuk menambahkan seluruh file)
    git add github.txt       (untuk menambahkan file github.txt saja)
 7. git status
-8. git commit -m "pesan yang akan dikirim"
+8. git commit -m "pesan yang akan dikirim"   
 9. git remote add origin https://github.com/haryakumuda/hacktiv8week1.git
 10. git push -u origin master
