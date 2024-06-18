@@ -12,4 +12,38 @@
 7. git status
 8. git commit -m "pesan yang akan dikirim"   
 9. git remote add origin https://github.com/haryakumuda/hacktiv8week1.git
-10. git push -u origin master
+10. git push -u origin main   (nama branch)
+
+
+=============
+untuk clone
+otomatis
+1. buka repository github
+2. pada tab "Code" ada tombol "Code" warna hijau diklik
+3. copy url repository
+4. buka gitbash sesuai direktori yang mau diclone
+5. git clone https://github.com/H8-FTGO-AOH-P0/graded-challenges-1-haryakumuda.git
+
+
+===========
+untuk branching
+
+1. git branch     (untuk cek daftar branch)
+2. git branch "namabranch"  (untuk membuat branch baru)
+3. git checkout "namabranch" (untuk pindah ke branch lain)
+4. git add *
+5. git commit -m "message"
+6. git push -u origin namabranch
+7. merge di github.com
+8. git checkout main
+9. git pull -u origin main
+
+
+
+
+
+
+
+
+
+
